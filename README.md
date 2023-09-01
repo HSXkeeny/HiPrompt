@@ -1,1 +1,1 @@
-# HiPrompt
+This is the HiPrompt repository
